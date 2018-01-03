@@ -1,0 +1,1 @@
+"| usuario u2 u3 u4 u5 |""creo un usuario"usuario := Usuario newNumero: 2214505590.u2 := Usuario newNumero: 2210523492.u3 := Usuario newNumero: 2210523493.u4 := Usuario newNumero: 2210523494.u5 := Usuario newNumero: 2210523495.usuario agregarAmigo: u2.usuario agregarAmigo: u3.usuario agregarAmigo: u4.usuario agregarAmigo: u5.Object

@@ -1,0 +1,1 @@
+| usuario |usuario := Usuario newNumero: 2214505590.usuario printIt 

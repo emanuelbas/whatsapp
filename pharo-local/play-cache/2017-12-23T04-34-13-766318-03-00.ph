@@ -1,0 +1,1 @@
+a := Counter new.a add:5.

@@ -1,0 +1,1 @@
+Counter new.Counter initialize.Counter suma: 5.

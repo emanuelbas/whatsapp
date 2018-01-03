@@ -1,0 +1,1 @@
+(Storage usuarioActual ) cleanFriends . Storage usuarioActual . Storage cleanUsuarios . Storage addUsuario: (Usuario newNumero: '4504444'). Storage addUsuario: (Usuario newNumero: '4505058'). (Storage usuarioActual) amigos noneSatisfy: [ :e | e = (Storage usuarioConNumero: '4505051')  ]

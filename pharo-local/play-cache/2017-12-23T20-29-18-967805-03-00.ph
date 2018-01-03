@@ -1,0 +1,1 @@
+| a |a := Bag new.a add: 'hola'.a add: 'chau'.a do: [ :ea | ea].'hola' 

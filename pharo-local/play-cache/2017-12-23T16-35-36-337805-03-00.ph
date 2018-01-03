@@ -1,0 +1,1 @@
+personas := OrderedCollection new.

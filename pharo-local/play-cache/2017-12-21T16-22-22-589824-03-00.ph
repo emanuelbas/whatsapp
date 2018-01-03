@@ -1,0 +1,1 @@
+http://smalltalkhub.com/mc/r14r/MyFirstWebApp/mainGofer newurl: 'http://smalltalkhub.com/mc/r14r/MyFirstWebApp/main';package: 'WebApp';load.#WebApp asClass loadDevelopment.
