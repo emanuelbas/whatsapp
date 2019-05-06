@@ -39,7 +39,6 @@ Desde la interfaz de chat se permitirá compartir la ubicación actual del usuar
 
 **Personalizar la APP **
 
-
 Se podrá acceder a un menú de personalización de la aplicación desde el que se podrán realizar cambios como cambiar el color de fondo
 
 **Usar emoticones**
